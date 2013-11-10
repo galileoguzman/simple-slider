@@ -1,0 +1,4 @@
+simple-slider
+=============
+
+Simple slider
